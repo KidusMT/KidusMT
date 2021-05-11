@@ -1,3 +1,6 @@
+<img align="right" src="https://user-images.githubusercontent.com/18373774/117781864-adc74e00-b206-11eb-8dab-c12b08229924.png" alt="Illustration of KidusMT" width=80px height=80px/>
+
+
 ### Hi there, I am Kidus 👋
 
 <!--
