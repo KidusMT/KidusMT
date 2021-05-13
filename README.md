@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/18373774/117781864-adc74e00-b206-11eb-8dab-c12b08229924.png" alt="Illustration of KidusMT" width=70px height=70px/>
+<a href="https://developers.google.com/profile/u/101096823315765943089"> <img align="right" src="https://user-images.githubusercontent.com/18373774/117781864-adc74e00-b206-11eb-8dab-c12b08229924.png" alt="Illustration of KidusMT" width=70px height=70px/></a>
 
 
 ### Hi there, I am Kidus 👋
@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/6021740/kidus-tekeste">
   <img align="left" alt="Kidus Tekeste | Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
 </a>
+
+<a href="https://developers.google.com/profile/u/101096823315765943089">
+  <img align="left" width="30px" height="30px" alt="Kidus Tekeste | Google Developer Profile" src="https://user-images.githubusercontent.com/18373774/118081140-6a90ea80-b380-11eb-894f-eb68f62ffb76.png"/>
+</a>
+
