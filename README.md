@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://developers.google.com/profile/u/101096823315765943089">
-  <img align="left" width="30px" height="30px" alt="Kidus Tekeste | Google Developer Profile" src="https://user-images.githubusercontent.com/18373774/118082781-64e8d400-b383-11eb-8f39-39464556d4ad.png"/>
+  <img align="left" width="32px" height="32px" alt="Kidus Tekeste | Google Developer Profile" src="https://user-images.githubusercontent.com/18373774/118082781-64e8d400-b383-11eb-8f39-39464556d4ad.png"/>
 </a>
 
