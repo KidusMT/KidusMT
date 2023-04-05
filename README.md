@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/adukidus">
-  <img align="left" alt="Kidus Tekeste | Twitter" src="https://abs.twimg.com/favicons/twitter.ico"/>
-</a>
-
 <a href="https://stackoverflow.com/users/6021740/kidus-tekeste">
   <img align="left" alt="Kidus Tekeste | Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
 </a>
